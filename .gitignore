@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+data/*.csv
+output/*.csv
+output/*.png
+spark-warehouse/
+metastore_db/
+derby.log
